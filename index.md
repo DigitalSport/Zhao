@@ -15,11 +15,13 @@
 **Publications**
 
 ***Journal Papers***
-* Du, Z., Li, M., & Wang, K. (2019). “The more options, the better?” Investigating the impact of the number of options on backers’ decisions in reward-based crowdfunding projects. Information & Management, 56(3), 429-444.
-* Du, Z., Wang, K., & Li, M. (2019). Promoting crowdfunding with lottery: The impact on campaign performance. Information & Management. 56(8), 103159
+* Zhao Du, Mengxiang Li, Kanliang Wang. (2019). “The More Options, The Better?” Investigating the Impact of the Number of Options on Backers’ Decisions in Reward-Based Crowdfunding Projects. Information & Management, 56(3), 429-444.
+* Zhao Du, Kanliang Wang, Mengxiang Li. (2019). Promoting Crowdfunding with Lottery: The Impact on Campaign Performance. Information & Management. 56(8), 103159
+* Zhao Du, Xiaolong Fu, Can Zhao, Ting Liu, Qifeng Liu. (2012). University Campus Social Network System for Knowledge Sharing. Computer Science and Information Systems, 9(4), 1721-1737.
 * 杜炤, 刘婷, 刘奇峰. (2015). 基于社交网络服务的个人知识管理系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 79-86.
 * 杜炤, 萧潇. (2015). 面向自主学习的互动式网络学习系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 440.
 * 杜炤, 刘婷, 刘奇峰. (2013). 校园社交网络业务应用访问控制模型的设计. 实验室研究与探索, 32(5), 72-76.
+* 蒋东兴, 杜炤, 张新钰, & 吴扬. (2012). 一个面向知识分享的校园社交网络设计. 武汉大学学报: 理学版, (S1), 1-6.
 
 ***Conference Papers***
 * Zhao Du, Kanliang Wang, Mengxiang Li. Zhao Du, Kanliang Wang, Mengxiang Li. Improve the Project Performance by Self-Donation? The Impacts of Self-Donation in Charitable Crowdfunding. ICIS 2020.
@@ -29,9 +31,10 @@
 * Zhao Du, Kanliang Wang. (2017). More Options Make Crowdfunding Campaigns More Successful? Investigation of the Underlying Mechanism. AMCIS 2017. Boston, USA.
 * Zhao Du, Kanliang Wang. (2017). Promoting Crowdfunding Campaigns by Lottery Option: A Wise Decision or Hazardous Choice. CSWIM 2017. Nanjing, China.
 * Zhao Du, Kanliang Wang. (2016). Choice Schema Design of Crowdfunding Campaigns: An Exploratory Study. PACIS 2016. Chaiyi, Taiwan.
-* Yeming Tang, Qiuli Tong, Zhao Du. (2014). Mining frequent sequential patterns and association rules on campus map system. In The 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
-* Zhao Du, Yeming Tang, Yongqi Liu, Qifeng Liu. (2014). ConferenceOne: A cloud-based collaborative conference service system. In The 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
-* Zhao Du, Yuguang Liu, Ye Wang. (2013). Relation based access control in campus social network system. Procedia Computer Science, 17, 14-20.
+* Yeming Tang, Qiuli Tong, Zhao Du. (2014). Mining Frequent Sequential Patterns and Association Rules on Campus Map System. 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
+* Zhao Du, Yeming Tang, Yongqi Liu, Qifeng Liu. (2014). ConferenceOne: A Cloud-Based Collaborative Conference Service System. 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
+* Zhao Du, Yuguang Liu, Ye Wang. (2013). Relation Based Access Control in Campus Social Network System. Procedia Computer Science, 17, 14-20.
+* Zhao Du, Xiaolong Fu, Can Zhao, Ting Liu. (2012). University Campus Social Network System for Knowledge Sharing. In 2012 International Conference on Systems and Informatics (ICSAI2012). 
 
 ***Book Chapters***
 * Smart Stadium: The Future of Stadiums (In Chinese). (2020). In: Annual Report of Development of China's Sports Venues (2019-2020). Social Sciences Acadmic Press (China).
