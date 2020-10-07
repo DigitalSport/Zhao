@@ -1,8 +1,5 @@
-Zhao Du is an associate professor of data science in the School of Sports Engineering, Beijing Sport University.
+Zhao Du is an associate professor of data science in the School of Sports Engineering, Beijing Sport University. She also serves as a master instructor at Sport Business School, Beijing Sport University. She received my Ph.D. degree in Information Systems from Renmin University of China and Masters’ degree in Computer Science from Tsinghua University. Her research interests include crowdfunding, e-learning, social network, and design science.
 
-You can use the [editor on GitHub](https://github.com/DigitalSport/Zhao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
