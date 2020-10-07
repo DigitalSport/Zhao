@@ -2,9 +2,9 @@ Zhao Du is an associate professor of data science in the School of Sports Engine
 
 
 ### Education
-2014-2018 School of Business, Renmin Univeristy of China
-2002-2005 Department of Computer Science & Technology, Tsinghua University
-1998-2002 Department of Computer Science & Technology, Beijing JiaoTong University
+* 2014-2018 School of Business, Renmin Univeristy of China
+* 2002-2005 Department of Computer Science & Technology, Tsinghua University
+* 1998-2002 Department of Computer Science & Technology, Beijing JiaoTong University
 
 ### Publications
 
