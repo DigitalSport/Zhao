@@ -1,5 +1,8 @@
 **Zhao Du** is an associate professor of data science in the School of Sports Engineering, Beijing Sport University. She also serves as a master instructor at Sport Business School, Beijing Sport University. She received my Ph.D. degree in Information Systems from Renmin University of China and Masters’ degree in Computer Science from Tsinghua University. Her research interests include crowdfunding, e-learning, social network, and design science.
 
+### Interests
+Crowdfunding, E-learning, Digital Economy and Sports Industry, Smart Stadium
+
 
 ### Education
 * 2014-2018 School of Business, Renmin Univeristy of China
@@ -30,5 +33,8 @@
 
 ### Fundings
 
+### Course Taught
+* Undergraduate level: Digital Economy and Sports Industry, Management Information Systems
+* Postgraduate level: 
 
 
