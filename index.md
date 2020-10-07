@@ -9,10 +9,14 @@ Zhao Du is an associate professor of data science in the School of Sports Engine
 ### Publications
 
 #### Journal Papers
-
+* Du, Z., Li, M., & Wang, K. (2019). “The more options, the better?” Investigating the impact of the number of options on backers’ decisions in reward-based crowdfunding projects. Information & Management, 56(3), 429-444.
+* Du, Z., Wang, K., & Li, M. (2019). Promoting crowdfunding with lottery: The impact on campaign performance. Information & Management. 56(8), 103159
 
 #### Conference Papers
-
+* Zhao Du, Kanliang Wang, Mengxiang Li. Zhao Du, Kanliang Wang, Mengxiang Li. Improve the Project Performance by Self-Donation? The Impacts of Self-Donation in Charitable Crowdfunding. ICIS 2020.
+* Zhao Du, Shan Wang. (2020). Engaging Learners through Course Forums in MOOC Platform: The Role of Instructor-led Class Discussion. 中国系统工程年会第21届学术年会, 西安, 2020.10.31-2020.11.1
+* Zhao Du, Kanliang Wang, Mengxiang Li. (2019). Commitment or Fraud: How Fundraisers’ Self-backing Impacts the Crowdfunding Performance of Charitable Campaigns? 国际信息系统协会中国分会第八届全国大会(CNAIS 2019), 南京, 2019.10.10-2019.10.13
+* Shouwang Lu, Zhao Du. (2019). Visualizing the Landscape and Evolution of Reward-based Crowdfunding Research? 国际信息系统协会中国分会第八届全国大会(CNAIS 2019), 南京, 2019.10.10-2019.10.13
 
 ### Book Chapters
 
