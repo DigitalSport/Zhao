@@ -17,8 +17,9 @@
 ***Journal Papers***
 * Du, Z., Li, M., & Wang, K. (2019). “The more options, the better?” Investigating the impact of the number of options on backers’ decisions in reward-based crowdfunding projects. Information & Management, 56(3), 429-444.
 * Du, Z., Wang, K., & Li, M. (2019). Promoting crowdfunding with lottery: The impact on campaign performance. Information & Management. 56(8), 103159
-* 杜炤, 刘婷, & 刘奇峰. (2015). 基于社交网络服务的个人知识管理系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 79-86.
-* 杜炤, & 萧潇. (2015). 面向自主学习的互动式网络学习系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 440.
+* 杜炤, 刘婷, 刘奇峰. (2015). 基于社交网络服务的个人知识管理系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 79-86.
+* 杜炤, 萧潇. (2015). 面向自主学习的互动式网络学习系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 440.
+* 杜炤, 刘婷, 刘奇峰. (2013). 校园社交网络业务应用访问控制模型的设计. 实验室研究与探索, 32(5), 72-76.
 
 ***Conference Papers***
 * Zhao Du, Kanliang Wang, Mengxiang Li. Zhao Du, Kanliang Wang, Mengxiang Li. Improve the Project Performance by Self-Donation? The Impacts of Self-Donation in Charitable Crowdfunding. ICIS 2020.
@@ -29,6 +30,8 @@
 * Zhao Du, Kanliang Wang. (2017). Promoting Crowdfunding Campaigns by Lottery Option: A Wise Decision or Hazardous Choice. CSWIM 2017. Nanjing, China.
 * Zhao Du, Kanliang Wang. (2016). Choice Schema Design of Crowdfunding Campaigns: An Exploratory Study. PACIS 2016. Chaiyi, Taiwan.
 * Yeming Tang, Qiuli Tong, Zhao Du. (2014). Mining frequent sequential patterns and association rules on campus map system. In The 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
+* Zhao Du, Yeming Tang, Yongqi Liu, Qifeng Liu. (2014). ConferenceOne: A cloud-based collaborative conference service system. In The 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
+* Zhao Du, Yuguang Liu, Ye Wang. (2013). Relation based access control in campus social network system. Procedia Computer Science, 17, 14-20.
 
 ***Book Chapters***
 * Smart Stadium: The Future of Stadiums (In Chinese). (2020). In: Annual Report of Development of China's Sports Venues (2019-2020). Social Sciences Acadmic Press (China).
@@ -40,7 +43,8 @@
 * Undergraduate Level: Digital Economy and Sports Industry, Management Information Systems
 
 **Profile Pages**
-ResearchGate：https://www.researchgate.net/profile/Zhao_Du3
-Google Scholar：https://scholar.google.com.ph/citations?hl=zh-CN&user=uwZ9kNAAAAAJ
+* ResearchGate：https://www.researchgate.net/profile/Zhao_Du3
+* Google Scholar：https://scholar.google.com.ph/citations?hl=zh-CN&user=uwZ9kNAAAAAJ
+
 
 
