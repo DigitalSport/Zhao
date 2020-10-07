@@ -15,8 +15,8 @@
 **Publications**
 
 ***Journal Papers***
-* Zhao Du, Mengxiang Li, Kanliang Wang. (2019). “The More Options, The Better?” Investigating the Impact of the Number of Options on Backers’ Decisions in Reward-Based Crowdfunding Projects. Information & Management, 56(3), 429-444.
-* Zhao Du, Kanliang Wang, Mengxiang Li. (2019). Promoting Crowdfunding with Lottery: The Impact on Campaign Performance. Information & Management. 56(8), 103159
+* Zhao Du, Mengxiang Li, Kanliang Wang. (2019). “The More Options, The Better?” Investigating the Impact of the Number of Options on Backers’ Decisions in Reward-Based Crowdfunding Projects. Information & Management, 56(3), 429-444. （IF=5.155, JCR Q1, ABS 3, ABCD A)
+* Zhao Du, Kanliang Wang, Mengxiang Li. (2019). Promoting Crowdfunding with Lottery: The Impact on Campaign Performance. Information & Management. 56(8), 103159 （IF=5.155, JCR Q1, ABS 3, ABCD A)
 * Zhao Du, Xiaolong Fu, Can Zhao, Ting Liu, Qifeng Liu. (2012). University Campus Social Network System for Knowledge Sharing. Computer Science and Information Systems, 9(4), 1721-1737.
 * 杜炤, 刘婷, 刘奇峰. (2015). 基于社交网络服务的个人知识管理系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 79-86.
 * 杜炤, 萧潇. (2015). 面向自主学习的互动式网络学习系统研究. 华东师范大学学报 (自然科学版), 2015(S1), 440.
