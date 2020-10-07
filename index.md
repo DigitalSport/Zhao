@@ -40,9 +40,21 @@
 * Zhao Du, Kanliang Wang. (2016). Choice Schema Design of Crowdfunding Campaigns: An Exploratory Study. PACIS 2016. Chaiyi, Taiwan.
 * Yeming Tang, Qiuli Tong, Zhao Du. (2014). Mining Frequent Sequential Patterns and Association Rules on Campus Map System. 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
 * Zhao Du, Yeming Tang, Yongqi Liu, Qifeng Liu. (2014). ConferenceOne: A Cloud-Based Collaborative Conference Service System. 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
+* Zhang, Z., Yang, R., Li, Z., Chen, L., Yu, X., Tang, Y., Zhao Du. (2014). Location-based social networking information services in university campus. In The 2014 2nd International Conference on Systems and Informatics (ICSAI 2014) (pp. 619-623). IEEE.
+* Zhao Du, Yeming Tang. (2014). Web-based Multi-level Smart Card Access Control System on University Campus. In 2014 IEEE 5th International Conference on Software Engineering and Service Science (pp. 1015-1018). IEEE.
+* Lantao Hu, Qiuli Tong, Zhao Du, Yongqi Liu, Yeming Tang. (2014). Location-Based Service Using Ontology and Collaborative Recommendation. In 2014 International Conference on Information Science, Electronics and Electrical Engineering (Vol. 1, pp. 653-656). IEEE.
+* Yongqi Liu, Qiuli Tong, Zhao Du, Lantao Hu. (2014, September). Content-boosted restricted Boltzmann machine for recommendation. In International Conference on Artificial Neural Networks (pp. 773-780). Springer, Cham.
+* Yongqi Liu, Zhao Du, Lantao Hu, Qili Tong. (2014). Integrating Social Question–Answer Sites in Learning Management System. In Frontier and Future Development of Information Technology in Medicine and Education (pp. 695-703). Springer, Dordrecht.
+* Zhao Du, Lantao Hu, Xiaolong Fu, Yongqi Liu. (2014). Scalable and explainable friend recommendation in campus social network system. In Frontier and Future Development of Information Technology in Medicine and Education (pp. 457-466). Springer, Dordrecht.
+* Zhao Du, Lantao Hu, Yongqi Liu. (2014). Adaptive Online Learning Environment for Life-Long Learning. In Frontier and Future Development of Information Technology in Medicine and Education (pp. 29-37). Springer, Dordrecht.
 * Zhao Du, Yuguang Liu, Ye Wang. (2013). Relation Based Access Control in Campus Social Network System. Procedia Computer Science, 17, 14-20.
-* Zhao Du, Xiaolong Fu, Can Zhao, Ting Liu. (2012). University Campus Social Network System for Knowledge Sharing. In 2012 International Conference on Systems and Informatics (ICSAI2012). 
+* Lantao Hu, Zhao Du, Qiuli Tong, Yongqi Liu. (2013). Context-aware recommendation of learning resources using rules engine. In 2013 IEEE 13th International Conference on Advanced Learning Technologies (pp. 181-183). IEEE.
+* Wang, Y., Liu, Z., Du, Z., & Huang, Y. (2013). Mobile cloud computing network attack and defense learning system based on fuzzy soft sets. Procedia Computer Science, 17, 214-221.
+* Zhao Du, Xiaolong Fu, Can Zhao, Qifeng Liu, Ting Liu. (2013). Interactive and collaborative e-learning platform with integrated social software and learning management system. In Proceedings of the 2012 International Conference on Information Technology and Software Engineering (pp. 11-18). Springer, Berlin, Heidelberg.
+* Zhao Du, Xiaolong Fu, Can Zhao, Ting Liu. (2012). University Campus Social Network System for Knowledge Sharing. In 2012 International Conference on Systems and Informatics (ICSAI 2012). 
 * Zhao Du, Qian Wang, Xiaolong Fu, Qixin Liu. (2012). Integrated and flexible data management for cloud social network service platform on campus. In Proceedings of 2012 2nd International Conference on Computer Science and Network Technology (CCIS 2012), pp. 1241-1244.
+* Qian Wang, Zhao Du, Naijia Liu. (2012). Design and realization of database online migration. In Proceedings of 2012 2nd International Conference on Computer Science and Network Technology (pp. 1195-1198). IEEE.
+
 
 ***Book Chapters***
 * Smart Stadium: The Future of Stadiums (In Chinese). (2020). In: Annual Report of Development of China's Sports Venues (2019-2020). Social Sciences Acadmic Press (China).
