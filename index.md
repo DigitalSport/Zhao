@@ -31,12 +31,16 @@
 * Yeming Tang, Qiuli Tong, Zhao Du. (2014). Mining frequent sequential patterns and association rules on campus map system. In The 2014 2nd International Conference on Systems and Informatics (ICSAI 2014), Shanghai, China.
 
 ***Book Chapters***
-
+* Smart Stadium: The Future of Stadiums (In Chinese). (2020). In: Annual Report of Development of China's Sports Venues (2019-2020). Social Sciences Acadmic Press (China).
 
 **Fundings**
+* Research of the Effects and Mechanism of Fundraisers’ Self-backing Behavior in Online Crowdfunding. National Science Foundation of China. 2020-2022.
 
 **Course Taught**
-* Undergraduate level: Digital Economy and Sports Industry, Management Information Systems
-* Postgraduate level: 
+* Undergraduate Level: Digital Economy and Sports Industry, Management Information Systems
+
+**Profile Pages**
+ResearchGate：https://www.researchgate.net/profile/Zhao_Du3
+Google Scholar：https://scholar.google.com.ph/citations?hl=zh-CN&user=uwZ9kNAAAAAJ
 
 
