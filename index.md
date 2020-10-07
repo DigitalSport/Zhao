@@ -28,6 +28,7 @@
 * 钟文锋, 付小龙, 杜炤. (2011). 基于SVN的校级统一信息系统版本管理系统的设计与实现. 中国教育信息化: 高教职教, (12), 55-57.
 * 赵灿, 杜炤, 杜鹃. (2011). 高校信息化建设项目外包采购管理的探讨. 中国教育信息化: 高教职教, (5), 4-6.
 * 杜炤, 佟秋利, 孙国光. (2007). 清华大学财务信息化的新思路. 中国管理信息化 (会计版), (9), 29.
+* 杜炤, 王小鸽, 陈渝. (2005). 反射式中间件综述. 计算机研究与发展, 42(12), 2041-2047.
 
 ***Conference Papers***
 * Zhao Du, Kanliang Wang, Mengxiang Li. Zhao Du, Kanliang Wang, Mengxiang Li. Improve the Project Performance by Self-Donation? The Impacts of Self-Donation in Charitable Crowdfunding. ICIS 2020. (Top Conference of Information Systems)
