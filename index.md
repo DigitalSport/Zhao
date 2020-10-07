@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Zhao Du is an associate professor of data science in the School of Sports Engineering, Beijing Sport University.
 
 You can use the [editor on GitHub](https://github.com/DigitalSport/Zhao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
